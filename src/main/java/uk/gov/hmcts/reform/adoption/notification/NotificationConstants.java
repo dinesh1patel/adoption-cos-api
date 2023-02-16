@@ -7,6 +7,12 @@ public final class NotificationConstants {
     public static final String APPLICANT_2_FULL_NAME = "applicant2FullName";
     public static final String LOCAL_COURT_NAME = "localCourtName";
 
+    public static final String CHILD_FULL_NAME = "childFullName";
+
+    public static final String LA_PORTAL_URL = "laPortalURL";
+
+    public static final String ADOPTION_CUI_URL = "signInAdoptionUrl";
+
     private NotificationConstants() {
     }
 }
